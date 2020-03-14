@@ -1,0 +1,2 @@
+# restapiDjango
+just api practice
